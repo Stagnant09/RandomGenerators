@@ -115,7 +115,7 @@ def enter(event):
 
 root = tk.Tk()
 root.title("Random Password Generator")
-root.iconbitmap("C:/Users/Ανδρέας/FunProjects/temp/icon.ico")
+root.iconbitmap("your_root/icon.ico")
 root.geometry("400x180")
 
 label = tk.Label(root, text="Click 'Generate' to start")
