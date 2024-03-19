@@ -68,7 +68,7 @@ normalize()
 def show_warning(message):
     warning_window = tk.Toplevel(root)
     warning_window.title("Warning")
-    warning_window.iconbitmap("C:/Users/Ανδρέας/FunProjects/temp/icon2.ico")
+    warning_window.iconbitmap("YOUR_ROUTE/icon2.ico")
     warning_label = tk.Label(warning_window, text=message)
     warning_label.pack(padx=15, pady=10)
     close_button = tk.Button(warning_window, text="Got It!", command=warning_window.destroy)
@@ -120,7 +120,7 @@ def reset_seed():
 
 root = tk.Tk()
 root.title("Random Number Generator")
-root.iconbitmap("C:/Users/Ανδρέας/FunProjects/temp/icon.ico")
+root.iconbitmap("YOUR_ROUTE/icon.ico")
 root.geometry("390x250")
 root.resizable(width=False, height=False)
 
