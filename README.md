@@ -4,5 +4,5 @@ Has a *Copy to clipboard* feature.
 
 Update 1.1 - (RNG) Added "*Reset Seed*" button. Added "*Set maximum value*" box.
 
-![Screenshot_252](https://github.com/Stagnant09/RandomGenerators/assets/86020741/7ef054e2-45d5-47dc-8b65-d06b6edb6529)
+![Screenshot_254](https://github.com/Stagnant09/RandomGenerators/assets/86020741/cbd504db-b230-4f7f-adbb-57baace1fe5b)
 ![Screenshot_253](https://github.com/Stagnant09/RandomGenerators/assets/86020741/7472f608-66da-4c62-9ba8-09441231d456)
