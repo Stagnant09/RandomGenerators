@@ -42,7 +42,7 @@ def enter(event):
 
 root = tk.Tk()
 root.title("Random Circle Point Generator")
-root.iconbitmap("C:/Users/Ανδρέας/FunProjects/Random Generator/icon.ico")
+root.iconbitmap("C:/YOUR_ROUTE/icon.ico")
 root.geometry("460x460")
 root.resizable(width=False, height=False)
 
